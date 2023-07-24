@@ -1,16 +1,22 @@
 ### Hi there 👋
+# I'm Pankaj Barman
 
-<!--
-**Pankaj0038/Pankaj0038** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" src="grad.webp" alt= “Education” width="20" height="20"> &nbsp; 3rd year, Computer Science & Engineering Department student of JGEC
+  
+<img align="left" src="cyber-sec.png" alt= “Interest” width="20" height="20"> &nbsp; Cyber Security and ethical hacking is my field of interest
 
-Here are some ideas to get you started:
+***
+<div style="text-align:center">
+<h2>Languages</h2>
+<p align-item="center">
+<a href='https://www.python.org/'>
+<img src="python2.png" alt= “Interest” width="30" height="30">
+</a>
+<a href='https://www.gnu.org/software/bash/'>
+&ensp;
+<img src="bash.png" alt= “Interest” width="30" height="30"> 
+</a>
+</p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***
