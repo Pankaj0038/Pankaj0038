@@ -7,7 +7,7 @@
 ***
 <div style="text-align:center">
 <h2>Languages</h2>
-<p align-item="center">
+<p style="display:flex;justify-content:center">
 <a href='https://www.python.org/'>
 <img src="python2.png" alt= “Interest” width="30" height="30">
 </a>
