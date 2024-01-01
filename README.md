@@ -1,6 +1,7 @@
 # Pankaj Barman
 
 <img align="left" src="image.png" alt= “Education” width="40" height="40"> &nbsp;3rd year, Computer Science & Engineering Department student of JGEC
+
 <img align="left" src="image(1).png" alt= “Interest” width="45" height="45">Cyber Security and ethical hacking is my field of interest 
 
 ---
