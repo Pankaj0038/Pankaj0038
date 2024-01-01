@@ -2,7 +2,7 @@
 
 <img align="left" src="image.png" alt= “Education” width="40" height="40"> 3rd year, Computer Science & Engineering Department student of JGEC
   
-<img align="left" src="cyber-sec.png" alt= “Interest” width="20" height="20"> &nbsp; Cyber Security and ethical hacking is my field of interest
+<img align="left" src="image(1).png" alt= “Interest” width="20" height="20"> Cyber Security and ethical hacking is my field of interest
 
 
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
