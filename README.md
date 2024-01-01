@@ -1,9 +1,10 @@
 # Pankaj Barman
 
-<img align="left" src="image.png" alt= “Education” width="40" height="40"> 3rd year, Computer Science & Engineering Department student of JGEC
+<img align="left" src="image.png" alt= “Education” width="40" height="40"> &nbsp;3rd year, Computer Science & Engineering Department student of JGEC <p>
   
-<img align="left" src="image(1).png" alt= “Interest” width="20" height="20"> Cyber Security and ethical hacking is my field of interest
+<img align="left" src="image(1).png" alt= “Interest” width="45" height="45">Cyber Security and ethical hacking is my field of interest <p>
 
+---
 
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
