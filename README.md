@@ -1,8 +1,9 @@
 # Pankaj Barman
 
-<img align="left" src="image.png" alt= “Education” width="40" height="40"> &nbsp;3rd year, Computer Science & Engineering Department student of JGEC
+[<img align="left" src="image.png" alt= “Education” width="80" height="80">](https://jgec.ac.in/) <b>Education</b><br> 3rd year <br> Computer Science & Engineering Department <br> Jalpaiguri Government Engineering College (Autonomous)
 
-<img align="left" src="image(1).png" alt= “Interest” width="45" height="45">Cyber Security and ethical hacking is my field of interest 
+---
+[<img align="left" src="image(1).png" alt= “Interest” width="90" height="90">](https://www.linkedin.com/company/z3r0l0g0n/) <b>Interest</b><br> Cyber Security and ethical hacking <br> root@z3r0_l0g0n <br> Z3R0_L0G0N {Cyber Security Club of JGEC}
 
 ---
 
