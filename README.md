@@ -11,6 +11,8 @@
 
 [<img align="left" src="image(1).png" alt= “Interest” width="90" height="90">](https://www.linkedin.com/company/z3r0l0g0n/) <b>Interest</b><br> Cyber Security and ethical hacking <br> root@z3r0_l0g0n <br> Z3R0_L0G0N {Cyber Security Club of JGEC}
 
+[comment]: <> (HWJ{H4CK_7H3_W0RLD})
+
 
 ---
 
