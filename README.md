@@ -9,9 +9,7 @@
 
 <img align="right" width="90" height="90" src="https://gifdb.com/images/high/hacker-hacking-loading-bar-gc4ryfth555j9ti0.gif">
 
-[<img align="left" src="image(1).png" alt= “Interest” width="90" height="90">](https://www.linkedin.com/company/z3r0l0g0n/) <b>Interest</b><br> Cyber Security and Web Developement <br> root@z3r0_l0g0n <br> Z3R0_L0G0N {Cyber Security Club of JGEC}
-
-[comment]: <> (HWJ{H4CK_7H3_W0RLD})
+[<img align="left" src="image(1).png" alt= “Interest” width="90" height="90">](https://www.linkedin.com/company/z3r0l0g0n/) <b>Position of responsibility</b><br>Secretary<br>Z3R0_L0G0N {Cyber Security Club of JGEC}<br>Jalpaiguri Government Engineering College
 
 
 ---
