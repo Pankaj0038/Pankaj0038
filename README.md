@@ -1,13 +1,9 @@
 # Pankaj Barman
 
 
-<img align="right" width="90" height="90" src="https://i.pinimg.com/originals/05/92/70/0592700dc81761080fff94f9b29faac3.gif">
-
 [<img align="left" src="image.png" alt= “Education” width="80" height="80">](https://jgec.ac.in/) <b>Education</b><br> Final year <br> Computer Science & Engineering Department <br> Jalpaiguri Government Engineering College (Autonomous)
 
 ---
-
-<img align="right" width="90" height="90" src="https://gifdb.com/images/high/hacker-hacking-loading-bar-gc4ryfth555j9ti0.gif">
 
 [<img align="left" src="image(1).png" alt= “Interest” width="90" height="90">](https://www.linkedin.com/company/z3r0l0g0n/) <b>Position of responsibility</b><br>Secretary<br>Z3R0_L0G0N {Cyber Security Club of JGEC}<br>Jalpaiguri Government Engineering College
 
